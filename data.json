@@ -2,123 +2,123 @@
     "response_code": 0,
     "results": [
       {
-        "category": "Culture: Hindu Festivals",
+        "category": "Culture: Indian Food",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "Which Hindu festival is known as the 'Festival of Lights'?",
-        "correct_answer": "Diwali",
+        "question": "What is the main ingredient in 'Dosa'?",
+        "correct_answer": "Rice and Urad Dal",
         "incorrect_answers": [
-          "Holi",
-          "Navaratri",
-          "Pongal"
+          "Wheat",
+          "Potato",
+          "Maida"
         ]
       },
       {
-        "category": "Culture: Hindu Festivals",
+        "category": "Culture: Indian Food",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "What is the main color used in the festival of Holi?",
-        "correct_answer": "No specific color, multiple colors are used",
+        "question": "Which Indian dessert is made of grated carrot, milk, sugar, and ghee?",
+        "correct_answer": "Gajar Ka Halwa",
         "incorrect_answers": [
-          "Red",
-          "Blue",
-          "Yellow"
+          "Gulab Jamun",
+          "Kheer",
+          "Jalebi"
         ]
       },
       {
-        "category": "Culture: Hindu Festivals",
+        "category": "Culture: Indian Food",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "Which Hindu festival involves immersing idols in water bodies?",
-        "correct_answer": "Ganesh Chaturthi",
+        "question": "'Biryani' is traditionally associated with which Indian region?",
+        "correct_answer": "Hyderabad",
         "incorrect_answers": [
-          "Diwali",
-          "Navaratri",
-          "Pongal"
+          "Punjab",
+          "Gujarat",
+          "Rajasthan"
         ]
       },
       {
-        "category": "Culture: Hindu Festivals",
+        "category": "Culture: Indian Food",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "What is celebrated during the Hindu festival of Raksha Bandhan?",
-        "correct_answer": "The bond between brothers and sisters",
+        "question": "What is the primary ingredient of 'Rasam'?",
+        "correct_answer": "Tamarind juice",
         "incorrect_answers": [
-          "Victory of good over evil",
-          "Arrival of spring",
-          "Harvest season"
+          "Tomato",
+          "Lentils",
+          "Spinach"
         ]
       },
       {
-        "category": "Culture: Hindu Festivals",
+        "category": "Culture: Indian Food",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "During which festival are kites flown in parts of India?",
-        "correct_answer": "Makar Sankranti",
+        "question": "'Momo' is a popular dish in which part of India?",
+        "correct_answer": "Northeast India",
         "incorrect_answers": [
-          "Diwali",
-          "Holi",
-          "Navaratri"
+          "South India",
+          "North India",
+          "West India"
         ]
       },
       {
-        "category": "Culture: Hindu Festivals",
+        "category": "Culture: Indian Food",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "Which Hindu festival marks the beginning of the lunar calendar?",
-        "correct_answer": "Ugadi",
+        "question": "'Dhokla' is a famous snack of which Indian state?",
+        "correct_answer": "Gujarat",
         "incorrect_answers": [
-          "Pongal",
-          "Onam",
-          "Lohri"
+          "Punjab",
+          "Maharashtra",
+          "West Bengal"
         ]
       },
       {
-        "category": "Culture: Hindu Festivals",
+        "category": "Culture: Indian Food",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "Navaratri celebrates which female deity?",
-        "correct_answer": "Durga",
+        "question": "What type of cuisine is 'Chole Bhature'?",
+        "correct_answer": "North Indian",
         "incorrect_answers": [
-          "Lakshmi",
-          "Saraswati",
-          "Parvati"
+          "South Indian",
+          "East Indian",
+          "West Indian"
         ]
       },
       {
-        "category": "Culture: Hindu Festivals",
+        "category": "Culture: Indian Food",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "What does the 'Rath Yatra' festival commemorate?",
-        "correct_answer": "The annual journey of Lord Jagannath",
+        "question": "Which Indian dish is a savory fried puff pastry filled with spiced potatoes, onions and peas?",
+        "correct_answer": "Samosa",
         "incorrect_answers": [
-          "The chariot ride of Arjuna in Mahabharata",
-          "The journey of Rama to Lanka",
-          "The sun's chariot ride across the sky"
+          "Pakora",
+          "Bhaji",
+          "Kachori"
         ]
       },
       {
-        "category": "Culture: Hindu Festivals",
+        "category": "Culture: Indian Food",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "Which state in India is known for the grand celebration of the festival 'Onam'?",
-        "correct_answer": "Kerala",
+        "question": "Which of these is a traditional Indian ice cream?",
+        "correct_answer": "Kulfi",
         "incorrect_answers": [
-          "Tamil Nadu",
-          "Karnataka",
-          "Andhra Pradesh"
+          "Sundae",
+          "Gelato",
+          "Sorbet"
         ]
       },
       {
-        "category": "Culture: Hindu Festivals",
+        "category": "Culture: Indian Food",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "Which Hindu festival is known for its grand elephant procession?",
-        "correct_answer": "Thrissur Pooram",
+        "question": "What is 'Naan'?",
+        "correct_answer": "A type of Indian bread",
         "incorrect_answers": [
-          "Holi",
-          "Diwali",
-          "Navaratri"
+          "A dessert",
+          "A curry",
+          "A rice dish"
         ]
       }
     ]
