@@ -23,7 +23,7 @@ filepath = 'data.json'
 with open(filepath, 'r') as fp:
     data = json.load(fp)
 
-openai.api_key = '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'
+openai.api_key = 'Enter key here'
 messages = [ {"role": "system", "content": 
               "You are a intelligent assistant."} ]
 
