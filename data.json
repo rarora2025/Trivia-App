@@ -2,123 +2,123 @@
     "response_code": 0,
     "results": [
       {
-        "category": "Culture: Indian Food",
+        "category": "Culture: Ramayana",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "What is the main ingredient in 'Dosa'?",
-        "correct_answer": "Rice and Urad Dal",
+        "question": "Who wrote the Ramayana?",
+        "correct_answer": "Valmiki",
         "incorrect_answers": [
-          "Wheat",
-          "Potato",
-          "Maida"
+          "Ved Vyas",
+          "Tulsidas",
+          "Kalidasa"
         ]
       },
       {
-        "category": "Culture: Indian Food",
+        "category": "Culture: Ramayana",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "Which Indian dessert is made of grated carrot, milk, sugar, and ghee?",
-        "correct_answer": "Gajar Ka Halwa",
+        "question": "What is the name of Lord Rama's wife in the Ramayana?",
+        "correct_answer": "Sita",
         "incorrect_answers": [
-          "Gulab Jamun",
-          "Kheer",
-          "Jalebi"
+          "Radha",
+          "Rukmini",
+          "Meera"
         ]
       },
       {
-        "category": "Culture: Indian Food",
+        "category": "Culture: Ramayana",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "'Biryani' is traditionally associated with which Indian region?",
-        "correct_answer": "Hyderabad",
+        "question": "Who is the villain in the Ramayana?",
+        "correct_answer": "Ravana",
         "incorrect_answers": [
-          "Punjab",
-          "Gujarat",
-          "Rajasthan"
+          "Duryodhana",
+          "Kansa",
+          "Hiranyakashipu"
         ]
       },
       {
-        "category": "Culture: Indian Food",
+        "category": "Culture: Ramayana",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "What is the primary ingredient of 'Rasam'?",
-        "correct_answer": "Tamarind juice",
+        "question": "What is the name of Lord Rama's loyal monkey devotee in the Ramayana?",
+        "correct_answer": "Hanuman",
         "incorrect_answers": [
-          "Tomato",
-          "Lentils",
-          "Spinach"
+          "Bheem",
+          "Ganesha",
+          "Jambavan"
         ]
       },
       {
-        "category": "Culture: Indian Food",
+        "category": "Culture: Ramayana",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "'Momo' is a popular dish in which part of India?",
-        "correct_answer": "Northeast India",
+        "question": "Who is the brother of Ravana in the Ramayana?",
+        "correct_answer": "Vibhishana",
         "incorrect_answers": [
-          "South India",
-          "North India",
-          "West India"
+          "Kumbhakarna",
+          "Bharata",
+          "Indrajit"
         ]
       },
       {
-        "category": "Culture: Indian Food",
+        "category": "Culture: Ramayana",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "'Dhokla' is a famous snack of which Indian state?",
-        "correct_answer": "Gujarat",
+        "question": "What was the name of the bow that Rama broke in Sita's swayamvar?",
+        "correct_answer": "Shiva's bow",
         "incorrect_answers": [
-          "Punjab",
-          "Maharashtra",
-          "West Bengal"
+          "Vishnu's bow",
+          "Indra's bow",
+          "Brahma's bow"
         ]
       },
       {
-        "category": "Culture: Indian Food",
+        "category": "Culture: Ramayana",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "What type of cuisine is 'Chole Bhature'?",
-        "correct_answer": "North Indian",
+        "question": "In the Ramayana, who was the charioteer of Lord Rama?",
+        "correct_answer": "Sumitra",
         "incorrect_answers": [
-          "South Indian",
-          "East Indian",
-          "West Indian"
+          "Jatayu",
+          "Sampati",
+          "Nala"
         ]
       },
       {
-        "category": "Culture: Indian Food",
+        "category": "Culture: Ramayana",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "Which Indian dish is a savory fried puff pastry filled with spiced potatoes, onions and peas?",
-        "correct_answer": "Samosa",
+        "question": "Which of these characters was not one of Rama's brothers in the Ramayana?",
+        "correct_answer": "Jatayu",
         "incorrect_answers": [
-          "Pakora",
-          "Bhaji",
-          "Kachori"
+          "Lakshmana",
+          "Bharata",
+          "Shatrughna"
         ]
       },
       {
-        "category": "Culture: Indian Food",
+        "category": "Culture: Ramayana",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "Which of these is a traditional Indian ice cream?",
-        "correct_answer": "Kulfi",
+        "question": "Which of the following incidents occurred first in the Ramayana?",
+        "correct_answer": "Rama's birth",
         "incorrect_answers": [
-          "Sundae",
-          "Gelato",
-          "Sorbet"
+          "Rama's exile",
+          "Ravana's death",
+          "Sita's abduction"
         ]
       },
       {
-        "category": "Culture: Indian Food",
+        "category": "Culture: Ramayana",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "What is 'Naan'?",
-        "correct_answer": "A type of Indian bread",
+        "question": "What was the name of the bird who tried to prevent Ravana from carrying Sita away?",
+        "correct_answer": "Jatayu",
         "incorrect_answers": [
-          "A dessert",
-          "A curry",
-          "A rice dish"
+          "Garuda",
+          "Aruna",
+          "Tarka"
         ]
       }
     ]
