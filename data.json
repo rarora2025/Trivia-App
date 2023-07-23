@@ -2,123 +2,123 @@
     "response_code": 0,
     "results": [
       {
-        "category": "Culture: Ramayana",
+        "category": "Culture: Hindi Language",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "Who wrote the Ramayana?",
-        "correct_answer": "Valmiki",
+        "question": "What script is the Hindi language written in?",
+        "correct_answer": "Devanagari",
         "incorrect_answers": [
-          "Ved Vyas",
-          "Tulsidas",
-          "Kalidasa"
+          "Gurmukhi",
+          "Gujarati",
+          "Urdu"
         ]
       },
       {
-        "category": "Culture: Ramayana",
+        "category": "Culture: Hindi Language",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "What is the name of Lord Rama's wife in the Ramayana?",
-        "correct_answer": "Sita",
+        "question": "What is the word for 'friend' in Hindi?",
+        "correct_answer": "Dost",
         "incorrect_answers": [
-          "Radha",
-          "Rukmini",
-          "Meera"
+          "Yaar",
+          "Bhai",
+          "Sakhi"
         ]
       },
       {
-        "category": "Culture: Ramayana",
+        "category": "Culture: Hindi Language",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "Who is the villain in the Ramayana?",
-        "correct_answer": "Ravana",
+        "question": "How do you say 'thank you' in Hindi?",
+        "correct_answer": "Dhanyavaad",
         "incorrect_answers": [
-          "Duryodhana",
-          "Kansa",
-          "Hiranyakashipu"
+          "Namaste",
+          "Shukriya",
+          "Svagat"
         ]
       },
       {
-        "category": "Culture: Ramayana",
+        "category": "Culture: Hindi Language",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "What is the name of Lord Rama's loyal monkey devotee in the Ramayana?",
-        "correct_answer": "Hanuman",
+        "question": "Which of the following is not a Hindi vowel?",
+        "correct_answer": "Ka",
         "incorrect_answers": [
-          "Bheem",
-          "Ganesha",
-          "Jambavan"
+          "Aa",
+          "Ee",
+          "Oo"
         ]
       },
       {
-        "category": "Culture: Ramayana",
+        "category": "Culture: Hindi Language",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "Who is the brother of Ravana in the Ramayana?",
-        "correct_answer": "Vibhishana",
+        "question": "What is the Hindi word for 'book'?",
+        "correct_answer": "Kitab",
         "incorrect_answers": [
-          "Kumbhakarna",
-          "Bharata",
-          "Indrajit"
+          "Kita",
+          "Pustak",
+          "Vidyapith"
         ]
       },
       {
-        "category": "Culture: Ramayana",
+        "category": "Culture: Hindi Language",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "What was the name of the bow that Rama broke in Sita's swayamvar?",
-        "correct_answer": "Shiva's bow",
+        "question": "How many consonants are there in the Hindi alphabet?",
+        "correct_answer": "36",
         "incorrect_answers": [
-          "Vishnu's bow",
-          "Indra's bow",
-          "Brahma's bow"
+          "33",
+          "40",
+          "28"
         ]
       },
       {
-        "category": "Culture: Ramayana",
+        "category": "Culture: Hindi Language",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "In the Ramayana, who was the charioteer of Lord Rama?",
-        "correct_answer": "Sumitra",
+        "question": "What is the Hindi term for 'Good Morning'?",
+        "correct_answer": "Shubh Prabhat",
         "incorrect_answers": [
-          "Jatayu",
-          "Sampati",
-          "Nala"
+          "Shubh Ratri",
+          "Shubh Sandhya",
+          "Namaskar"
         ]
       },
       {
-        "category": "Culture: Ramayana",
+        "category": "Culture: Hindi Language",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "Which of these characters was not one of Rama's brothers in the Ramayana?",
-        "correct_answer": "Jatayu",
+        "question": "Which of these is not a number in Hindi?",
+        "correct_answer": "Nav",
         "incorrect_answers": [
-          "Lakshmana",
-          "Bharata",
-          "Shatrughna"
+          "Do",
+          "Paanch",
+          "Saath"
         ]
       },
       {
-        "category": "Culture: Ramayana",
+        "category": "Culture: Hindi Language",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "Which of the following incidents occurred first in the Ramayana?",
-        "correct_answer": "Rama's birth",
+        "question": "What is the Hindi word for 'water'?",
+        "correct_answer": "Paani",
         "incorrect_answers": [
-          "Rama's exile",
-          "Ravana's death",
-          "Sita's abduction"
+          "Jal",
+          "Neer",
+          "Ganga"
         ]
       },
       {
-        "category": "Culture: Ramayana",
+        "category": "Culture: Hindi Language",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "What was the name of the bird who tried to prevent Ravana from carrying Sita away?",
-        "correct_answer": "Jatayu",
+        "question": "What is the Hindi term for 'Good Night'?",
+        "correct_answer": "Shubh Ratri",
         "incorrect_answers": [
-          "Garuda",
-          "Aruna",
-          "Tarka"
+          "Shubh Prabhat",
+          "Shubh Sandhya",
+          "Namaskar"
         ]
       }
     ]
