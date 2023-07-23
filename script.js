@@ -69,7 +69,8 @@ document.querySelector("#quiz-play-again-btn").addEventListener("click", functio
 // Initiate New Game
 function initiateGame(questions, stats) {
   
-  fetch("./data.json")
+  //fetch("./data.json")
+  fetch("https://api.npoint.io/149c04583ba0a8ceefe2")
   .then(response => {
     return response.json();
  })
@@ -174,3 +175,6 @@ function displayStats(stats) {
 function round(value, decimals) {
   return Number(Math.round(value+'e'+decimals)+'e-'+decimals);
 } // Note: decimals>=0, Example: round(1.005, 2); -> 1.01
+
+
+
