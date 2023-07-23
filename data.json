@@ -1,0 +1,166 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the atomic number of hydrogen?",
+        "correct_answer": "1",
+        "incorrect_answers": ["2", "3", "0"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which element is known as the 'King of Chemicals'?",
+        "correct_answer": "Sulfur",
+        "incorrect_answers": ["Nitrogen", "Oxygen", "Hydrogen"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the symbol for the chemical element radium?",
+        "correct_answer": "Ra",
+        "incorrect_answers": ["Rd", "Rn", "Rm"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who developed the periodic table of elements?",
+        "correct_answer": "Dmitri Mendeleev",
+        "incorrect_answers": ["Isaac Newton", "Marie Curie", "Albert Einstein"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the chemical symbol for gold?",
+        "correct_answer": "Au",
+        "incorrect_answers": ["Ag", "Gd", "Go"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name given to substances that speed up chemical reactions without being used up?",
+        "correct_answer": "Catalysts",
+        "incorrect_answers": ["Reactants", "Enzymes", "Compounds"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the chemical formula for water?",
+        "correct_answer": "H2O",
+        "incorrect_answers": ["H2O2", "HO", "OH2"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who is credited with the discovery of oxygen?",
+        "correct_answer": "Joseph Priestley",
+        "incorrect_answers": ["Antoine Lavoisier", "Carl Wilhelm Scheele", "Henry Cavendish"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the common name for the compound NaCl?",
+        "correct_answer": "Salt",
+        "incorrect_answers": ["Sugar", "Baking soda", "Vinegar"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which scientist discovered the proton?",
+        "correct_answer": "Ernest Rutherford",
+        "incorrect_answers": ["J.J. Thomson", "Niels Bohr", "James Chadwick"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the main component of natural gas?",
+        "correct_answer": "Methane",
+        "incorrect_answers": ["Ethane", "Propane", "Butane"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the chemical symbol for iron?",
+        "correct_answer": "Fe",
+        "incorrect_answers": ["Ir", "In", "Ie"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is not a noble gas?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": ["Helium", "Argon", "Neon"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What does 'pH' in 'pH scale' stand for?",
+        "correct_answer": "'Potential of Hydrogen'",
+        "incorrect_answers": ["'Power of Hydrogen'", "'Point of Hydrogen'", "'Presence of Hydrogen'"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the chemical formula for carbon dioxide?",
+        "correct_answer": "CO2",
+        "incorrect_answers": ["CO", "C2O", "O2C"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the most abundant element in the earth's crust?",
+        "correct_answer": "Oxygen",
+        "incorrect_answers": ["Silicon", "Aluminium", "Iron"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which element has the symbol 'K'?",
+        "correct_answer": "Potassium",
+        "incorrect_answers": ["Krypton", "Kryptonite", "Kryptonium"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following elements is a liquid at room temperature?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": ["Lead", "Bismuth", "Thallium"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which element is represented by the symbol 'O'?",
+        "correct_answer": "Oxygen",
+        "incorrect_answers": ["Osmium", "Oxygenium", "Ozonium"]
+      },
+      {
+        "category": "Science: Chemistry",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which type of chemical bond involves the sharing of electron pairs between atoms?",
+        "correct_answer": "Covalent bond",
+        "incorrect_answers": ["Ionic bond", "Metallic bond", "Hydrogen bond"]
+      }
+    ]
+  }
+  
