@@ -2,165 +2,124 @@
     "response_code": 0,
     "results": [
       {
-        "category": "Science: Chemistry",
+        "category": "Culture: Hindu Festivals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which Hindu festival is known as the 'Festival of Lights'?",
+        "correct_answer": "Diwali",
+        "incorrect_answers": [
+          "Holi",
+          "Navaratri",
+          "Pongal"
+        ]
+      },
+      {
+        "category": "Culture: Hindu Festivals",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the main color used in the festival of Holi?",
+        "correct_answer": "No specific color, multiple colors are used",
+        "incorrect_answers": [
+          "Red",
+          "Blue",
+          "Yellow"
+        ]
+      },
+      {
+        "category": "Culture: Hindu Festivals",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "What is the atomic number of hydrogen?",
-        "correct_answer": "1",
-        "incorrect_answers": ["2", "3", "0"]
+        "question": "Which Hindu festival involves immersing idols in water bodies?",
+        "correct_answer": "Ganesh Chaturthi",
+        "incorrect_answers": [
+          "Diwali",
+          "Navaratri",
+          "Pongal"
+        ]
       },
       {
-        "category": "Science: Chemistry",
+        "category": "Culture: Hindu Festivals",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "Which element is known as the 'King of Chemicals'?",
-        "correct_answer": "Sulfur",
-        "incorrect_answers": ["Nitrogen", "Oxygen", "Hydrogen"]
+        "question": "What is celebrated during the Hindu festival of Raksha Bandhan?",
+        "correct_answer": "The bond between brothers and sisters",
+        "incorrect_answers": [
+          "Victory of good over evil",
+          "Arrival of spring",
+          "Harvest season"
+        ]
       },
       {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "What is the symbol for the chemical element radium?",
-        "correct_answer": "Ra",
-        "incorrect_answers": ["Rd", "Rn", "Rm"]
-      },
-      {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Who developed the periodic table of elements?",
-        "correct_answer": "Dmitri Mendeleev",
-        "incorrect_answers": ["Isaac Newton", "Marie Curie", "Albert Einstein"]
-      },
-      {
-        "category": "Science: Chemistry",
+        "category": "Culture: Hindu Festivals",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "What is the chemical symbol for gold?",
-        "correct_answer": "Au",
-        "incorrect_answers": ["Ag", "Gd", "Go"]
+        "question": "During which festival are kites flown in parts of India?",
+        "correct_answer": "Makar Sankranti",
+        "incorrect_answers": [
+          "Diwali",
+          "Holi",
+          "Navaratri"
+        ]
       },
       {
-        "category": "Science: Chemistry",
+        "category": "Culture: Hindu Festivals",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "What is the name given to substances that speed up chemical reactions without being used up?",
-        "correct_answer": "Catalysts",
-        "incorrect_answers": ["Reactants", "Enzymes", "Compounds"]
+        "question": "Which Hindu festival marks the beginning of the lunar calendar?",
+        "correct_answer": "Ugadi",
+        "incorrect_answers": [
+          "Pongal",
+          "Onam",
+          "Lohri"
+        ]
       },
       {
-        "category": "Science: Chemistry",
+        "category": "Culture: Hindu Festivals",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "What is the chemical formula for water?",
-        "correct_answer": "H2O",
-        "incorrect_answers": ["H2O2", "HO", "OH2"]
+        "question": "Navaratri celebrates which female deity?",
+        "correct_answer": "Durga",
+        "incorrect_answers": [
+          "Lakshmi",
+          "Saraswati",
+          "Parvati"
+        ]
       },
       {
-        "category": "Science: Chemistry",
+        "category": "Culture: Hindu Festivals",
         "type": "multiple",
         "difficulty": "medium",
-        "question": "Who is credited with the discovery of oxygen?",
-        "correct_answer": "Joseph Priestley",
-        "incorrect_answers": ["Antoine Lavoisier", "Carl Wilhelm Scheele", "Henry Cavendish"]
+        "question": "What does the 'Rath Yatra' festival commemorate?",
+        "correct_answer": "The annual journey of Lord Jagannath",
+        "incorrect_answers": [
+          "The chariot ride of Arjuna in Mahabharata",
+          "The journey of Rama to Lanka",
+          "The sun's chariot ride across the sky"
+        ]
       },
       {
-        "category": "Science: Chemistry",
+        "category": "Culture: Hindu Festivals",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "What is the common name for the compound NaCl?",
-        "correct_answer": "Salt",
-        "incorrect_answers": ["Sugar", "Baking soda", "Vinegar"]
+        "question": "Which state in India is known for the grand celebration of the festival 'Onam'?",
+        "correct_answer": "Kerala",
+        "incorrect_answers": [
+          "Tamil Nadu",
+          "Karnataka",
+          "Andhra Pradesh"
+        ]
       },
       {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Which scientist discovered the proton?",
-        "correct_answer": "Ernest Rutherford",
-        "incorrect_answers": ["J.J. Thomson", "Niels Bohr", "James Chadwick"]
-      },
-      {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "What is the main component of natural gas?",
-        "correct_answer": "Methane",
-        "incorrect_answers": ["Ethane", "Propane", "Butane"]
-      },
-      {
-        "category": "Science: Chemistry",
+        "category": "Culture: Hindu Festivals",
         "type": "multiple",
         "difficulty": "easy",
-        "question": "What is the chemical symbol for iron?",
-        "correct_answer": "Fe",
-        "incorrect_answers": ["Ir", "In", "Ie"]
-      },
-      {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Which of the following is not a noble gas?",
-        "correct_answer": "Nitrogen",
-        "incorrect_answers": ["Helium", "Argon", "Neon"]
-      },
-      {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "What does 'pH' in 'pH scale' stand for?",
-        "correct_answer": "'Potential of Hydrogen'",
-        "incorrect_answers": ["'Power of Hydrogen'", "'Point of Hydrogen'", "'Presence of Hydrogen'"]
-      },
-      {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "What is the chemical formula for carbon dioxide?",
-        "correct_answer": "CO2",
-        "incorrect_answers": ["CO", "C2O", "O2C"]
-      },
-      {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "What is the most abundant element in the earth's crust?",
-        "correct_answer": "Oxygen",
-        "incorrect_answers": ["Silicon", "Aluminium", "Iron"]
-      },
-      {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "Which element has the symbol 'K'?",
-        "correct_answer": "Potassium",
-        "incorrect_answers": ["Krypton", "Kryptonite", "Kryptonium"]
-      },
-      {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Which of the following elements is a liquid at room temperature?",
-        "correct_answer": "Mercury",
-        "incorrect_answers": ["Lead", "Bismuth", "Thallium"]
-      },
-      {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "easy",
-        "question": "Which element is represented by the symbol 'O'?",
-        "correct_answer": "Oxygen",
-        "incorrect_answers": ["Osmium", "Oxygenium", "Ozonium"]
-      },
-      {
-        "category": "Science: Chemistry",
-        "type": "multiple",
-        "difficulty": "medium",
-        "question": "Which type of chemical bond involves the sharing of electron pairs between atoms?",
-        "correct_answer": "Covalent bond",
-        "incorrect_answers": ["Ionic bond", "Metallic bond", "Hydrogen bond"]
+        "question": "Which Hindu festival is known for its grand elephant procession?",
+        "correct_answer": "Thrissur Pooram",
+        "incorrect_answers": [
+          "Holi",
+          "Diwali",
+          "Navaratri"
+        ]
       }
     ]
   }
-  
