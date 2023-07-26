@@ -113,3 +113,81 @@ button, button:hover, button:active, button:focus, button:visited, .btn, .btn:ho
   .quiz-ans-btn { font-size: 16px; min-height: 65px; }  
   #quiz-play-again-btn {  font-size: 28px; width: 66%; }
 }
+*,*:before,*:after {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+
+#leaderboard{
+	position:relative;
+	margin-left: 0;
+	margin-right: 0;
+	border:3px solid #000;
+	border-radius: 20px;
+	padding:10px;
+	background:#333;
+	
+}
+#leaderboard ul{
+	position:relative;
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+#leaderboard ul li{
+	position:absolute;
+	display:block;
+	width:100%;
+	padding:10px;
+	border-radius:5px;
+	background: #669999;
+	border-bottom:1px solid #222;
+	border-top:1px solid #666;
+	box-shadow: 3px 3px 5px #000;
+	opacity: 1;
+	transition: top cubic-bezier(1.000, -0.530, 0.405, 1.425) 3s;
+}
+#leaderboard ul li a{
+	display: block;
+	text-decoration: none;
+	font-family:  sans-serif;
+	color: black
+}
+#leaderboard ul li a:hover{
+	text-shadow: 0 0 10px rgb(230,230,255);
+}
+#leaderboard li span {
+	float:right;
+	color:black;
+	opacity: 1;
+
+}
+#leaderboard li span:after {
+	content:' Points';
+	color:black;
+	font-size:10px;
+}
+#leaderboard .move{
+
+}
+
+#leaderboard .replace{
+	animation: replace 2s;
+	-webkit-animation: replace 2s;
+}
+#leaderboard .move span,#leaderboard .replace span{
+	opacity:0;
+}
+
+@keyframes replace
+{
+	0% {left: -500px;opacity:0;}
+	100% {left: 0px;opacity:1;}
+}
+@-webkit-keyframes replace
+{
+	0% {left: -500px;opacity:0;}
+	100% {left: 0px;opacity:1;}
+}
